@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/Users/aruntej/Desktop/LinkedIn_AI_AGENT/linkedin_tech_news_agent/__init__.py", line 14, in <module>
+    from .agent import LinkedInTechNewsAgent
+  File "/Users/aruntej/Desktop/LinkedIn_AI_AGENT/linkedin_tech_news_agent/agent.py", line 9, in <module>
+    from .credential_manager import SecureCredentialManager
+ModuleNotFoundError: No module named 'linkedin_tech_news_agent.credential_manager'
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/Users/aruntej/Desktop/LinkedIn_AI_AGENT/linkedin_tech_news_agent/__init__.py", line 14, in <module>
+    from .agent import LinkedInTechNewsAgent
+  File "/Users/aruntej/Desktop/LinkedIn_AI_AGENT/linkedin_tech_news_agent/agent.py", line 9, in <module>
+    from .credential_manager import SecureCredentialManager
+ModuleNotFoundError: No module named 'linkedin_tech_news_agent.credential_manager'
